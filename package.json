@@ -29,10 +29,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "https://[onishishotaro].github.io/[react-todo-var03]/",
-    "scripts": {
-      "deploy": "npm run build && gh-pages -d build"
-    },
+   
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
